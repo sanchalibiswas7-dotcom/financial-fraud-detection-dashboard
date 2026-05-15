@@ -30,3 +30,10 @@ The queries were used to analyze:
 - High-risk merchant categories
 - Transaction trends
 
+## Key Insights
+
+- Fraud rate was around 1.8% of total transactions.
+- Wire transfer and ACH payment methods showed higher fraud activity.
+- Travel and retail categories had higher fraud occurrences.
+- Fraud activity showed slight monthly fluctuations.
+- Behavioral metrics helped identify suspicious transaction patterns.
